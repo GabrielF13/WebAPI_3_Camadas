@@ -29,7 +29,7 @@ namespace Data.Config
 
         private string GetStringConectionConfig()
         {
-            string strCon = "Data Source=LAPTOP-A6EENSJ3\\SQLEXPRESS;Initial Catalog=ApiCoreCamadas;Integrated Security=True";
+            string strCon = "String de conexão";
             return strCon;
         }
     }
